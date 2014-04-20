@@ -1,10 +1,6 @@
-I've included example invocations and output for the cases you asked for.
-I've also included a script, compile.sh, that is the compile command line
-I used.
-
-I've included my /proc/cpuinfo in case it's useful.
+I've included example invocations and output. I've also included a script,
+compile.sh, that is the compile command line I use.
 
 This could probably be made faster by using non-blocking sockets and some other
 things, but I've spent enough time on this already.
 
-Thomas Higdon
